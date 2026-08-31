@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "retention_days": 30,
+  "plugins": {
+    "enabled": [
+      "mvc_triage",
+      "filewatch",
+      "ghostnote",
+      "devclock"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "module": "devbot",
+  "name": "DevBot",
+  "version": "1.0.0",
+  "author": "STN-Labz",
+  "description": "Developer diagnostics, MVC inventory, file activity, and scheduled project reports.",
+  "routes": []
+}
